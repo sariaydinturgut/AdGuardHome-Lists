@@ -1902,6 +1902,7 @@
 ||sdk.mrf.io^
 ||bildirt.com^
 ||sdk.iad-01.braze.com^
+||dizipalorijinal13.com^$important
 
 
 
