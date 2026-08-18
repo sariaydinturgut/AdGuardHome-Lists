@@ -1845,6 +1845,37 @@
 ||m.tarabet764.com^$important
 ||kingroyal1019.com^$important
 ||mrking5026.com^$important
+||m.betorbet315.com^$important
+||www.betorbet315.com^$important
+||betorbet315.com^$important
+||betorbet315.com^$client='192.168.1.1'
+||go-cms.betorbet315.com^$important
+||eu-swarm-newm.betorbet315.com^$important
+||cloudfronti.tipobet7501.com^$important
+||cms.enjoybet591.com^$important
+||go-cms.enjoybet591.com^$important
+||enjoybet100-2.anjseal.org^$important
+||icons.enjoybet591.com^$important
+||m.enjoybet591.com^$important
+||enjoybet591.com^$important
+||dataspot-internal-wss.setrabet986.com^$important
+||icons.setrabet986.com^$important
+||dataspot-int-bucket.setrabet986.com^$important
+||go-cms.setrabet986.com^$important
+||www.setrabet986.com^$important
+||eu-swarm-newm.setrabet986.com^$important
+||dataspot-internal-wss.galabet1094.com^$important
+||dataspot-wss.galabet1094.com^$important
+||dataspot-int-bucket.galabet1094.com^$important
+||dataspot-bucket.galabet1094.com^$important
+||go-cms.galabet1094.com^$important
+||eu-swarm-newm.galabet1094.com^$important
+||m.galabet1094.com^$important
+||www.galabet1094.com^$important
+||galabet1094.com^$important
+||rgs-wss.galabet1094.com^$important
+||cms.galabet1094.com^$important
+||icons.galabet1094.com^$important
 
 
 
