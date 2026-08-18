@@ -1876,7 +1876,32 @@
 ||rgs-wss.galabet1094.com^$important
 ||cms.galabet1094.com^$important
 ||icons.galabet1094.com^$important
-
+||api.setrabet-ops.com^$important
+||telemetry.getadblock.com^$important
+||telemetry.eyeo.com^$important
+||dmxleo.com^$important
+||analitik.bik.gov.tr^
+||webvisor.org^$important
+||www.clarity.ms^$important
+||ip-api.com^
+||medyanetads.com^$important
+||tags.bkrtx.com^
+/^(\S+\.)?(adserver|adservers|adservice|adservices|advertising|advertisement|adnetwork|adnetworks|ads?\d+)\.[0-9a-z-]+\./$denyallow=nucdn.net|azureedge.net|alibabacorp.com
+||adcluster.com.tr^
+||membrana.media^
+||adsby.io^
+||arc.msn.com^$ctag=~device_pc|~os_windows
+||btloader.com^
+||c.msn.com^
+||browser.events.data.msn.com^
+||sb.scorecardresearch.com^
+||log*.aliyuncs.com^
+||nelreports.net^
+||webcontentassessor.com^
+||mc.yandex.com.tr^
+||sdk.mrf.io^
+||bildirt.com^
+||sdk.iad-01.braze.com^
 
 
 
