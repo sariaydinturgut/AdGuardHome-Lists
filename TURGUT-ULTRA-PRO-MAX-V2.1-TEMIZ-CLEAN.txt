@@ -1903,6 +1903,16 @@
 ||bildirt.com^
 ||sdk.iad-01.braze.com^
 ||dizipalorijinal13.com^$important
+||betlee^$important
+@@||central.zerotier.com^$important
+@@||accounts.zerotier.com^$important
+||www.roozahang.com^$important
+||roozahang.com^$important
+||www.bettilt135.io^$important
+||www.casinomhub260.com^$important
+||sb85cdn.com^$important
+||paribahis.hayatguzel.com^$important
+||www.paribahis1342.com^$important
 
 
 
