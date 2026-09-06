@@ -2051,6 +2051,18 @@
 ||mmby7.evooli.com^$important
 ||mmby7-evooli-com.cdn.ampproject.org^$important
 
+||adn^$important
+||adn.bursadabugun.com^$important
+||adn.medyabar.com^$important
+||cdn.evolliecdnsx.com^$important
+||7dak.com^$important
+||376c4695.7dakuvl62.info^$important
+||35f78415-7dakuvl62-info.cdn.ampproject.org^$important
+||112-news.cdn.ampproject.org^$important
+||112.news^$important
+||dbri3hin.doedah101.shop^$important
+||dbri3hin-doedah101-shop.cdn.ampproject.org^$important
+||www.evooli.com^$important
 
 
 
