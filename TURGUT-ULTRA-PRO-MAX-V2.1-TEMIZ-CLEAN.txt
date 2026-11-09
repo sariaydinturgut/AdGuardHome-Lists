@@ -3241,3 +3241,11 @@ Yeni
 ||m.livejasmin.com^
 ||ctjdmar.com^
 ||crmrc.livejasmin.com^
+||onetag-sys.com^
+||api.tblcontent.com^$important
+||turkadscdn.com^$important
+@@||relay.netbird.io^$important
+||www.brokolilabs.com^$important
+||hazine.app^$important
+||adn^$important
+||jetbet51.com^$important
