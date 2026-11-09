@@ -3245,7 +3245,7 @@ Yeni
 ||api.tblcontent.com^$important
 ||turkadscdn.com^$important
 @@||relay.netbird.io^$important
-||www.brokolilabs.com^$important
+||brokolilabs.com^$important
 ||hazine.app^$important
-||adn^$important
+||adn.bursadabugun.com^$important
 ||jetbet51.com^$important
